@@ -1,0 +1,15 @@
+$ pyup
+
+  Install:
+  git clone http://github.com/buckket/pyup
+  pip install -e pyup/
+
+
+  Usage: pyup [OPTIONS] SOURCE_FILE
+
+   Options:
+    -c, --clipboard  paste URL to clipboard
+    -l, --launch     open URL in default browser
+    -u, --uuid       use uuids for filename
+    --version        Show the version and exit.
+    --help           Show this message and exit.
