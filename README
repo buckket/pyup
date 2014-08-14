@@ -4,7 +4,7 @@ $ pyup
     git clone http://github.com/buckket/pyup
     pip install pyup/
 
-  Usage: pyup.py [OPTIONS] SOURCE_FILE [TARGET]
+  Usage: pyup [OPTIONS] SOURCE_FILE [TARGET]
   
     Options:
       -c, --clipboard  paste URL to clipboard
